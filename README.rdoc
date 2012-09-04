@@ -4,6 +4,8 @@ Simple Ruby on Rails applicaton to test Chef infrastructure.
 
 ===== In your console
 
+bundle install
+
 rake db:create
 
 rake db:migrate 
